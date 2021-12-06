@@ -1,0 +1,7 @@
+D:\wp_VS\TrabalhandoComArquivos3\TrabalhandoComArquivos3\bin\Debug\TrabalhandoComArquivos3.exe.config
+D:\wp_VS\TrabalhandoComArquivos3\TrabalhandoComArquivos3\bin\Debug\TrabalhandoComArquivos3.exe
+D:\wp_VS\TrabalhandoComArquivos3\TrabalhandoComArquivos3\bin\Debug\TrabalhandoComArquivos3.pdb
+D:\wp_VS\TrabalhandoComArquivos3\TrabalhandoComArquivos3\obj\Debug\TrabalhandoComArquivos3.csproj.AssemblyReference.cache
+D:\wp_VS\TrabalhandoComArquivos3\TrabalhandoComArquivos3\obj\Debug\TrabalhandoComArquivos3.csproj.CoreCompileInputs.cache
+D:\wp_VS\TrabalhandoComArquivos3\TrabalhandoComArquivos3\obj\Debug\TrabalhandoComArquivos3.exe
+D:\wp_VS\TrabalhandoComArquivos3\TrabalhandoComArquivos3\obj\Debug\TrabalhandoComArquivos3.pdb
